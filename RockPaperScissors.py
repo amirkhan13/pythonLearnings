@@ -56,7 +56,7 @@ def start_game():
         print("Congratulations! You won the game!")
     elif comp_score > user_score:
         print("Sorry! Computer won the game!")
-    else:
+    else:   
         print("It's a tie!")
 start_game()
 
