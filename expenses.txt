@@ -1,0 +1,4 @@
+food|250.0|08-12-2025|food
+H&M clothes|500.0|03-12-2025|clothes
+food|250.0|08-12-205|food
+goa trip|10000.0|15-09-2025|travel
